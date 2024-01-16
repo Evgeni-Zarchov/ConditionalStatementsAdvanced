@@ -27,6 +27,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitShop", "FruitShop\Frui
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradeCommissions", "TradeCommissions\TradeCommissions.csproj", "{89B1E198-35D3-40D2-8C76-31574392B15A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{5A109ED8-0F35-43CD-9F35-7A84C816B29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerOutfit", "SummerOutfit\SummerOutfit.csproj", "{DDBF12B1-4CFF-4ED6-BDA1-8AECAF47DE0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{89B1E198-35D3-40D2-8C76-31574392B15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89B1E198-35D3-40D2-8C76-31574392B15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B1E198-35D3-40D2-8C76-31574392B15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A109ED8-0F35-43CD-9F35-7A84C816B29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A109ED8-0F35-43CD-9F35-7A84C816B29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A109ED8-0F35-43CD-9F35-7A84C816B29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A109ED8-0F35-43CD-9F35-7A84C816B29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBF12B1-4CFF-4ED6-BDA1-8AECAF47DE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBF12B1-4CFF-4ED6-BDA1-8AECAF47DE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBF12B1-4CFF-4ED6-BDA1-8AECAF47DE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBF12B1-4CFF-4ED6-BDA1-8AECAF47DE0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
